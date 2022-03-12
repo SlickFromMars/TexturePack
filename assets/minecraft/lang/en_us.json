@@ -1,5 +1,7 @@
 {
   "block.minecraft.carved_pumpkin": "Scar's Hat",
   "item.minecraft.music_disc_11": "Music Disc",
-  "item.minecraft.music_disc_11.desc": "Anakin's Betrayal"
+  "item.minecraft.music_disc_11.desc": "Anakin's Betrayal",
+  "item.minecraft.suspicious_stew": "SUSpicious Stew",
+  "subtitles.entity.mooshroom.suspicious_milk": "Mooshroom gets milked SUSpiciously"
 }
